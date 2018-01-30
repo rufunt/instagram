@@ -30,6 +30,8 @@ gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
+gem "paperclip", "~> 4.2.0"
+gem 'cocaine'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
