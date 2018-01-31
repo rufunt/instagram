@@ -32,6 +32,7 @@ gem 'devise'
 gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
 gem "paperclip", "~> 4.2.0"
 gem 'cocaine'
+gem 'masonry-rails', '~> 0.2.4'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
